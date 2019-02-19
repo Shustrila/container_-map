@@ -3,7 +3,7 @@
  * @constructor
  */
 class Errors {
-  constructor(){
+  constructor() {
     this.errorRepository = new Map();
   }
 
